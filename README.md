@@ -1,4 +1,4 @@
-# (MIT License) Testimonial Template for EdgeDB
+# Testimonial Page for EdgeDB
 
 One page testimonial template that showcases the growing enthusiasm around EdgeDB.
 
