@@ -92,11 +92,11 @@
     <div class="relative mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:px-0">
       <!-- Content area -->
       <div class="pt-12 sm:pt-16 lg:pt-20">
-        <h2 class="text-3xl text-gray-900 font-bold tracking-tight sm:text-4xl sm:tracking-tight">EdgeDB facing the Hacker News guantlet...</h2>
+        <h2 class="text-3xl text-gray-900 font-bold tracking-tight sm:text-4xl sm:tracking-tight">EdgeDB facing the Hacker News gauntlet...</h2>
         <div class="mt-6 text-gray-500 space-y-6">
-          <p class="text-lg">The Hacker News community has an extraoridnary way of picking apart anything that is laid bare on the news feed.  So how did EdgeDB's two major milestones, this year, fare amongst the Hacker News crowd?</p>
-          <p class="text-base leading-7">The world recognized the earthquake development caused by EdgeDB and awarded the two stories featuring it's major releases a combined 1300 upvotes.  Which puts EdgeDB into a very elite group.</p>
-          <p class="text-base leading-7">Hacker News has <a href="https://hn.algolia.com/?dateEnd=1660876959&dateRange=custom&dateStart=1629244800&page=0&prefix=true&query=&sort=byPopularity&type=story" target="_blank" class="underline"> published </a> nearly 3 million stories over the past year.  And there have been only around 300 stories that have reached the level of widespread appreciation that EdgeDB's 1.0 release garnered.  They faced the HN guantlet and not only did it survive but it received massive applause for it's ground breaking releases. The EdgeDB era has arrived!</p>
+          <p class="text-lg">The Hacker News community has an extraordinary way of picking apart anything that is presented on the news feed.  So how did EdgeDB's two major milestones, this year, fare amongst the Hacker News crowd?</p>
+          <p class="text-base leading-7">The world recognized the earthquake development caused by EdgeDB and awarded the two stories featuring its major releases a combined 1300 upvotes.  Which puts EdgeDB into a very elite group.</p>
+          <p class="text-base leading-7">Hacker News has <a href="https://hn.algolia.com/?dateEnd=1660876959&dateRange=custom&dateStart=1629244800&page=0&prefix=true&query=&sort=byPopularity&type=story" target="_blank" class="underline"> published </a> nearly 3 million stories over the past year.  And there have been only around 300 stories that have reached the level of widespread appreciation that EdgeDB's 1.0 release garnered.  They faced the HN gauntlet and not only did it survive but it received massive applause for its groundbreaking releases. The EdgeDB era has arrived!</p>
           
         </div>
       </div>
